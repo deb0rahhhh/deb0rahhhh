@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **deb0rahhhh/deb0rahhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi, I'm Debby 👋
+
+Final year Computer Science and Mathematics student @ NTU, passionate about Applied Machine Learning and Data Science.
+
+**Currently building:** an end-to-end Heart Disease Classification project
+**Also:** brushing up AI fundamentals via IBM SkillsBuild's Rewrite AI: Summer Challenge
+
+🎤 Fun fact: I sing, play guitar, and I'm a distant relative of a Nobel Prize winner!
+
+📫 www.linkedin.com/in/deborahadekore · adekoredeborah@gmail.com
