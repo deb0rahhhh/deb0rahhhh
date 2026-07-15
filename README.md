@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm Debby 👋
 
-Final year Computer Science and Mathematics student @ NTU, passionate about Applied Machine Learning and Data Science.
+Final year Computer Science and Mathematics student @ NTU, passionate about Applied Machine Learning and Data Science. I hope to secure a grad scheme in Data related roles for the upcoming 2027/2028 cohort.
 
-**Currently building:** an end-to-end Heart Disease Classification project
-**Also:** brushing up AI fundamentals via IBM SkillsBuild's Rewrite AI: Summer Challenge
+**Currently building:** a SQL & Database Architecture Externship with Breaking Games! 
+**Also:** brushing up my fundamentals in Python (Pandas, Numpy), reading Hands-On-ML in preparation for my dissertation on Probability Mechanics in games like Genshin Impact and Wuthering Waves.
 
 🎤 Fun fact: I sing, play guitar, and I'm a distant relative of a Nobel Prize winner!
 
